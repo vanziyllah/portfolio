@@ -138,7 +138,7 @@ nav ul li a:hover{
 }
 
 .hero-right img{
-    width: 50%;
+    width: 30%;
 }
 
 .hero-right{
@@ -398,4 +398,5 @@ footer{
 .footer-icon svg {
     fill:rgba(0, 0, 0, 0.671);
 }
+
 
